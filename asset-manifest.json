@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/capsicum-production/static/css/main.db1e7449.chunk.css",
-    "main.js": "/capsicum-production/static/js/main.31191297.chunk.js",
-    "main.js.map": "/capsicum-production/static/js/main.31191297.chunk.js.map",
+    "main.js": "/capsicum-production/static/js/main.56a05c12.chunk.js",
+    "main.js.map": "/capsicum-production/static/js/main.56a05c12.chunk.js.map",
     "runtime-main.js": "/capsicum-production/static/js/runtime-main.7a5031eb.js",
     "runtime-main.js.map": "/capsicum-production/static/js/runtime-main.7a5031eb.js.map",
-    "static/js/2.97841643.chunk.js": "/capsicum-production/static/js/2.97841643.chunk.js",
-    "static/js/2.97841643.chunk.js.map": "/capsicum-production/static/js/2.97841643.chunk.js.map",
+    "static/js/2.8b15576c.chunk.js": "/capsicum-production/static/js/2.8b15576c.chunk.js",
+    "static/js/2.8b15576c.chunk.js.map": "/capsicum-production/static/js/2.8b15576c.chunk.js.map",
     "index.html": "/capsicum-production/index.html",
-    "precache-manifest.ee422fc74b2d5ec8af1c351ba0e15062.js": "/capsicum-production/precache-manifest.ee422fc74b2d5ec8af1c351ba0e15062.js",
+    "precache-manifest.08035bc459259a6f1903a5834768c7a0.js": "/capsicum-production/precache-manifest.08035bc459259a6f1903a5834768c7a0.js",
     "service-worker.js": "/capsicum-production/service-worker.js",
     "static/css/main.db1e7449.chunk.css.map": "/capsicum-production/static/css/main.db1e7449.chunk.css.map",
-    "static/js/2.97841643.chunk.js.LICENSE.txt": "/capsicum-production/static/js/2.97841643.chunk.js.LICENSE.txt",
-    "static/js/main.31191297.chunk.js.LICENSE.txt": "/capsicum-production/static/js/main.31191297.chunk.js.LICENSE.txt",
+    "static/js/2.8b15576c.chunk.js.LICENSE.txt": "/capsicum-production/static/js/2.8b15576c.chunk.js.LICENSE.txt",
+    "static/js/main.56a05c12.chunk.js.LICENSE.txt": "/capsicum-production/static/js/main.56a05c12.chunk.js.LICENSE.txt",
     "static/media/argon-react-white.png": "/capsicum-production/static/media/argon-react-white.275a2629.png",
     "static/media/argon-react.png": "/capsicum-production/static/media/argon-react.f38ddea9.png",
     "static/media/bg-banner.png": "/capsicum-production/static/media/bg-banner.65c1e008.png",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7a5031eb.js",
-    "static/js/2.97841643.chunk.js",
+    "static/js/2.8b15576c.chunk.js",
     "static/css/main.db1e7449.chunk.css",
-    "static/js/main.31191297.chunk.js"
+    "static/js/main.56a05c12.chunk.js"
   ]
 }
