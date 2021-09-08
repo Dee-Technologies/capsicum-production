@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/capsicum-production/static/css/main.43c5e170.chunk.css",
-    "main.js": "/capsicum-production/static/js/main.34c2809b.chunk.js",
-    "main.js.map": "/capsicum-production/static/js/main.34c2809b.chunk.js.map",
+    "main.css": "/capsicum-production/static/css/main.f319266e.chunk.css",
+    "main.js": "/capsicum-production/static/js/main.02b059be.chunk.js",
+    "main.js.map": "/capsicum-production/static/js/main.02b059be.chunk.js.map",
     "runtime-main.js": "/capsicum-production/static/js/runtime-main.6ed6646b.js",
     "runtime-main.js.map": "/capsicum-production/static/js/runtime-main.6ed6646b.js.map",
     "static/css/2.1ba447cc.chunk.css": "/capsicum-production/static/css/2.1ba447cc.chunk.css",
-    "static/js/2.dacb573c.chunk.js": "/capsicum-production/static/js/2.dacb573c.chunk.js",
-    "static/js/2.dacb573c.chunk.js.map": "/capsicum-production/static/js/2.dacb573c.chunk.js.map",
+    "static/js/2.7aeebc8d.chunk.js": "/capsicum-production/static/js/2.7aeebc8d.chunk.js",
+    "static/js/2.7aeebc8d.chunk.js.map": "/capsicum-production/static/js/2.7aeebc8d.chunk.js.map",
     "index.html": "/capsicum-production/index.html",
-    "precache-manifest.752e3697246b34194e2f8da6a73b9cec.js": "/capsicum-production/precache-manifest.752e3697246b34194e2f8da6a73b9cec.js",
+    "precache-manifest.b593a2c327f012d561f3911b89987780.js": "/capsicum-production/precache-manifest.b593a2c327f012d561f3911b89987780.js",
     "service-worker.js": "/capsicum-production/service-worker.js",
     "static/css/2.1ba447cc.chunk.css.map": "/capsicum-production/static/css/2.1ba447cc.chunk.css.map",
-    "static/css/main.43c5e170.chunk.css.map": "/capsicum-production/static/css/main.43c5e170.chunk.css.map",
-    "static/js/2.dacb573c.chunk.js.LICENSE.txt": "/capsicum-production/static/js/2.dacb573c.chunk.js.LICENSE.txt",
-    "static/js/main.34c2809b.chunk.js.LICENSE.txt": "/capsicum-production/static/js/main.34c2809b.chunk.js.LICENSE.txt",
+    "static/css/main.f319266e.chunk.css.map": "/capsicum-production/static/css/main.f319266e.chunk.css.map",
+    "static/js/2.7aeebc8d.chunk.js.LICENSE.txt": "/capsicum-production/static/js/2.7aeebc8d.chunk.js.LICENSE.txt",
+    "static/js/main.02b059be.chunk.js.LICENSE.txt": "/capsicum-production/static/js/main.02b059be.chunk.js.LICENSE.txt",
     "static/media/argon-react-white.png": "/capsicum-production/static/media/argon-react-white.275a2629.png",
     "static/media/argon-react.png": "/capsicum-production/static/media/argon-react.f38ddea9.png",
     "static/media/bg-banner.png": "/capsicum-production/static/media/bg-banner.65c1e008.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.6ed6646b.js",
     "static/css/2.1ba447cc.chunk.css",
-    "static/js/2.dacb573c.chunk.js",
-    "static/css/main.43c5e170.chunk.css",
-    "static/js/main.34c2809b.chunk.js"
+    "static/js/2.7aeebc8d.chunk.js",
+    "static/css/main.f319266e.chunk.css",
+    "static/js/main.02b059be.chunk.js"
   ]
 }
